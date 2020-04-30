@@ -18,7 +18,7 @@
   "homepage": "https://github.com/chris510/natours-css#readme",
   "dependencies": {},
   "devDependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.13.1"
   }
 }
